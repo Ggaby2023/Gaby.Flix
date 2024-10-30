@@ -1,0 +1,77 @@
+body{
+background: black;
+color: rgb(116, 6, 6);
+font-size: 12px;
+}
+header{
+font-size: 40px;
+
+}
+    body {
+        color: rgb(99, 5, 5);
+        background: black;
+        margin: 80px;
+        font-family: style
+        import url('https://fonts.googleapis.com/css2?family=Bona+Nova+SC:ital,wght@0,400;0,700;1,400&display=swap');
+        
+    } 
+        
+        
+    .bona-nova-sc-regular {
+            font-family: "Bona Nova SC", serif;
+            font-weight: 400;
+            font-style: normal;
+          }
+       
+    
+    
+    header {
+        border-bottom: solid 2px rgb(99, 4, 4);
+        padding: 20px;
+        font-size: 40px;
+        color: rgb(6, 5, 73);
+    }
+
+.category {
+    background: rgb(0, 0, 0);
+    padding-bottom: 80px;
+    padding-top: 80px;
+}
+
+.categoria-videos {
+    margin-right: 5%;
+}
+
+.categoria-videos {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.category {
+    background: rgb(1, 2, 17);
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+.categoria-videos {
+    display:flex;
+   overflow-x: auto;
+   gap: 10px
+}
+
+img { 
+    height: 170px;
+}
+
+.categoria-videos img {
+    opacity: 0.5;
+    height: 200px
+}
+.categoria-videos img:hover {
+    opacity: 1.0;
+}
+.category {
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+}
+
+
